@@ -36,7 +36,7 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 # Experiences
 author_work_experiences:
             - company_name: Creverse
-              company_logo: creverse.png
+              company_logo: creverse.jpg
               company_url: https://creverse.com/
               designation: Coding Instructor, Content Development.
               description: Coding lecture, content production, A.I content production
