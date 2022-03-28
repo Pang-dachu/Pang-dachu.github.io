@@ -1,7 +1,7 @@
 ---
 layout: page
 title: test
-permalink: /blog/categories/tests/
+permalink: /blog/categories/test/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
