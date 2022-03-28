@@ -35,18 +35,19 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Creverse
+              company_logo: creverse.png
+              company_url: https://creverse.com/
+              designation: Coding Instructor, Content Development.
+              description: Coding lecture, content production, artificial intelligence content production
               visibility: true
+              
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
               designation: Azure Developer
               description: Worked on various Azure Cloud Products
-              visibility: true
+              visibility: false
 
 # Education
 author_education_details:
