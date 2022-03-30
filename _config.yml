@@ -42,7 +42,7 @@ author_work_experiences:
               description: Coding lecture, content production, A.I content production
               visibility: true
               
-            - company_name: Microsoft
+            - company_name: Microsoft??
               company_logo: oxford.png
               company_url: https://microsoft.com
               designation: Azure Developer
