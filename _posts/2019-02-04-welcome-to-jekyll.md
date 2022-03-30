@@ -2,7 +2,7 @@
 layout: post
 title:  "welcom, pang_dachu to devlopr-jekyll !"
 summary: "Getting Started using devlopr-jekyll"
-author: pangda
+author: Pang_dachu
 date: '2019-05-22 14:35:23 +0530'
 category: test
 thumbnail: /assets/img/posts/code.jpg
