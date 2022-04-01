@@ -65,8 +65,10 @@ author_project_details:
 
               - project_thumbnail: creverse.png
                 project_title: A.I Education mateials using Collab.
-                project_description: Content creation that can learn the basic parts of A.I using Google Collab.
-                project_url: Posting on the Internet is restricted. #https://gamershub.in
+                project_description: Content creation that can learn the basic parts of A.I using Google Collab. 
+                                     ( Posting on the Internet is restricted. )
+                            
+                # project_url: Posting on the Internet is restricted. #https://gamershub.in
                 visibility: true
                 
               - project_thumbnail: hack4r.PNG
