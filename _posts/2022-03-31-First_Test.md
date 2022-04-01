@@ -11,7 +11,7 @@ tags : test
 thumbnail: /assets/img/posts/programmers.jpg
 keywords: coding programmers
 
-usemathjax: false
+usemathjax: true
 permalink: /blog/First_Test/
 ---
 
