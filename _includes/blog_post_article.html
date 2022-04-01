@@ -37,7 +37,7 @@
     {{ content }}
     <br />
     
-    <!--{%- include share_page.html -%} -->
+    {%- include share_page.html -%}
     
     <!-- Author box -->
     {% assign author = site.data.authors[page.author] %}
@@ -50,8 +50,9 @@
     {%- include hyvor_comments.html -%}
    </div>
     {%- endif -%}
-  <!-- Incomment incase you want to use Disqus
-      <div id="disqus_thread"></div>
+  <!-- 
+    Incomment incase you want to use Disqus
+    <div id="disqus_thread"></div>
    -->
 
 
