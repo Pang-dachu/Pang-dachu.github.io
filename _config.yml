@@ -39,7 +39,7 @@ author_work_experiences:
             - company_name: Creverse
               company_logo: creverse.png
               company_url: https://creverse.com/
-              designation: Coding Instructor, Content Development.
+              designation: Coding Content Creator, Instructor.
               description: Coding lecture, content production, A.I content production
               visibility: true
               
@@ -63,11 +63,11 @@ author_education_details:
 author_project_details:
               
 
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: false
+              - project_thumbnail: creverse.png
+                project_title: A.I Education mateials using Collab.
+                project_description: Content creation that can learn the basic parts of A.I using Google Collab.
+                project_url: Posting on the Internet is restricted. #https://gamershub.in
+                visibility: true
                 
               - project_thumbnail: hack4r.PNG
                 project_title: Hack4r
