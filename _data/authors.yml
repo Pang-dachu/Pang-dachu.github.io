@@ -1,11 +1,14 @@
 # Add Authors here
 
 Pang_dachu:
-   name: Pang_dachu
-   username: pang_dachu
-   # site: https://sujaykundu.com
-   avatar: xplor4r.png
+   name: Pang dachu
+   username: pangdachu
    bio: "Coding Instructor, Coding Cotent Creater, Interested in ML and DL"
+   site: http://github.com/Pang-dachu
+   avatar: profile.png
    email: fox3931@gmail.com
+   social:
+       - title: "github"
+         url: "github.com/Pang-dachu"
 
 
