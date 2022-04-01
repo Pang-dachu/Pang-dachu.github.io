@@ -60,6 +60,8 @@ author_education_details:
 
 # Projects
 author_project_details:
+              
+
               - project_thumbnail: gamershub.png
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
@@ -70,7 +72,7 @@ author_project_details:
                 project_title: Hack4r
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://hack4r.com
-                visibility: true
+                visibility: false
 
 # social links
 # twitter_username: johndoe
