@@ -9,7 +9,7 @@ thumbnail: /assets/img/posts/programmers.jpg
 keywords: coding programmers
 permalink: /blog/welcome-to-devlopr-jekyll/
 usemathjax: true
-permalink: /blog/test_post/
+permalink: /blog/Second_Test/
 ---
 
 # Test
