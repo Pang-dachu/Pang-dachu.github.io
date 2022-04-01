@@ -2,13 +2,14 @@
 layout: post
 title:  "First_Test"
 summary: "This is First Test Post"
-author: Pang_dachu
+author: pang_dachu
 date: '2022-03-31 14:35:23 +0530'
-category: test
+category: ['test']
+
 thumbnail: /assets/img/posts/programmers.jpg
 keywords: coding programmers
-permalink: /blog/welcome-to-devlopr-jekyll/
-usemathjax: true
+
+usemathjax: false
 permalink: /blog/test_post/
 ---
 
