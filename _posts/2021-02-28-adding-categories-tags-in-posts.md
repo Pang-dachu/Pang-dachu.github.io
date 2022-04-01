@@ -8,7 +8,7 @@ category: ['jekyll','guides', 'sample_category']
 tags: test
 thumbnail: /assets/img/posts/programmers.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi categories and tags
-usemathjax: false
+usemathjax: true
 permalink: /blog/adding-categories-tags-in-posts/
 ---
 
