@@ -1,6 +1,6 @@
 ---
 name: Pang_dachu
-username: Pang_dachu
+username: pang_dachu
 bio: "Coding Instructor, Coding Cotent Creater, Interested in ML and DL"
 site: "github.com/Pang-dachu"
 avatar: profile.png
