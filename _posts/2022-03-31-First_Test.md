@@ -6,7 +6,6 @@ author: pangdachu
 date: '2022-03-31 14:35:23 +0530'
 category: test
 
-tags : test
 
 thumbnail: /assets/img/posts/programmers.jpg
 keywords: coding programmers
