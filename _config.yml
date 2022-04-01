@@ -1,9 +1,10 @@
+
 title: 팡다츄의 코딩일기
-subtitle: 팡다츄의 블로그
+subtitle: 팡다츄 블로그
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "https://pang-dachu.github.io"
+url: "팡다츄의 코딩일기" #"https://pang-dachu.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
