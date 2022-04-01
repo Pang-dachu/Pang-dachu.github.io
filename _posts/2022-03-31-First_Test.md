@@ -1,16 +1,18 @@
 ---
-layout: post
+layout: post_posts
 title:  "First_Test"
 summary: "This is First Test Post"
-author: pang_dachu
+author: pangdachu
 date: '2022-03-31 14:35:23 +0530'
-category: ['test']
+category: test
+
+tags : test
 
 thumbnail: /assets/img/posts/programmers.jpg
 keywords: coding programmers
 
 usemathjax: false
-permalink: /blog/test_post/
+permalink: /blog/First_Test/
 ---
 
 # This is 
