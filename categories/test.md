@@ -1,6 +1,6 @@
 ---
 layout: page
-title: test
+title: Test
 permalink: /blog/categories/test/
 ---
 
