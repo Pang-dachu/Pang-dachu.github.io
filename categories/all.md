@@ -7,7 +7,7 @@ permalink: /blog/categories/
 <h3>  {{ page.title }} </h3>
 
 <div id="categories">
-{% for category in site.categories %}
+{% for category in site.categories %}=
   <div class="category-box" >
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
