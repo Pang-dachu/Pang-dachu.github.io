@@ -1,5 +1,5 @@
 ---
-name: Pang_dachu
+name: Pang dachu
 username: pangdachu
 bio: "Coding Instructor, Coding Cotent Creater, Interested in ML and DL"
 site: http://github.com/Pang-dachu
